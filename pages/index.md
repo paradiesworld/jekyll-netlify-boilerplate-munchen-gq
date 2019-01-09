@@ -15,9 +15,6 @@ intro_paragraph: >-
   Top-Paläste, Hotels, Strände, sowie über unsere Münchner Tour.
 
 
-  <br> <br><br><br>
-
-
   # Kontaktieren Sie uns für weitere Informationen
 ---
 <p>Unser anderes Blog-Netzwerk ist : <a href="https://munchen.gq/">München.gq</a> ,<a href="https://munchen.cf">München.CF</a> ,<a href="https://munchen.ga">München.GA</a> ,
