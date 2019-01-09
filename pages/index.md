@@ -4,8 +4,7 @@ title: Willkommen zu München
 permalink: /
 section: home
 intro_paragraph: >-
-  # Über München : 
-
+  **Über München :** 
 
   München ist die Hauptstadt des Landes Bayern. Es ist Bayerns größte und die
   drittgrößte Stadt Deutschlands (nach Berlin und Hamburg). München, die mit
@@ -15,9 +14,6 @@ intro_paragraph: >-
 
   Hier diskutieren wir alles über Münchens Stadtteile, Umgebung, Kultur,
   Top-Paläste, Hotels, Strände, sowie über unsere Münchner Tour.
-
-
-  <br> <br><br><br>
 
 
   # Kontaktieren Sie uns für weitere Informationen
