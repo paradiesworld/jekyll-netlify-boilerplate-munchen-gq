@@ -3,20 +3,14 @@ layout: home
 title: Willkommen zu München
 permalink: /
 section: home
-intro_paragraph: >-
-  Über München : München ist die Hauptstadt des Landes Bayern. Es ist Bayerns
-  größte und die drittgrößte Stadt Deutschlands (nach Berlin und Hamburg).
-  München, die mit Abstand größte Stadt Süddeutschlands, liegt etwa 50 Kilometer
-  nördlich des Alpenrandes und entlang der Isar, die durch die Mitte der Stadt
-  fließt.
-
-
-  Hier diskutieren wir alles über Münchens Stadtteile, Umgebung, Kultur,
-  Top-Paläste, Hotels, Strände, sowie über unsere Münchner Tour.
-
-
-  # Kontaktieren Sie uns für weitere Informationen
+intro_paragraph: ''
 ---
+Über München : München ist die Hauptstadt des Landes Bayern. Es ist Bayerns größte und die drittgrößte Stadt Deutschlands (nach Berlin und Hamburg). München, die mit Abstand größte Stadt Süddeutschlands, liegt etwa 50 Kilometer nördlich des Alpenrandes und entlang der Isar, die durch die Mitte der Stadt fließt.
+
+Hier diskutieren wir alles über Münchens Stadtteile, Umgebung, Kultur, Top-Paläste, Hotels, Strände, sowie über unsere Münchner Tour.
+
+# Kontaktieren Sie uns für weitere Informationen
+
 <p>Unser anderes Blog-Netzwerk ist : <a href="https://munchen.gq/">München.gq</a>  <a href="https://munchen.cf">München.CF</a>  <a href="https://munchen.ga">München.GA</a>  
 <a href="https://munchen.ml">München.ML</a>   <a href="https://gesundheit.cf">Gesundheit.CF</a>  <a href="https://pflege.gq">Pflege.GQ</a>  
 <a href="https://baumfallung.tk">Baumfallung.TK</a>  <a href="https://baumfallung.ml">Baumfallung.ML</a>  <a href="https://bild.ga">Bild.GA</a>
