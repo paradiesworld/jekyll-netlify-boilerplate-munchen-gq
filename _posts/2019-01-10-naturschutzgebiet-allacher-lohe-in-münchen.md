@@ -2,7 +2,7 @@
 layout: post
 title: Naturschutzgebiet Allacher Lohe  In München
 author: john_doe
-date: '2019-01-10 00:01:90'
+date: '2019-01-06 00:01:90'
 intro_paragraph: >-
   Die Allacher Lohe mit einer Umfang von Seiten sozusagen 150 Hektar ist einer
   jener letzten Restbestände des einst bei den Münchener Nord...Und Alte Welt
