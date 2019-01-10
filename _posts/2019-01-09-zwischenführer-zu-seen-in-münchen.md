@@ -14,7 +14,8 @@ categories: Seen in München
 
 ![Feldmochinger See](/assets/img/uploads/feldmochinger-see.png)
 
-**2) Lerchenauer See :** Auf einem konstanten Weg zur Besserung ist der Lerchenauer See nicht der am meisten verliebte Standort Münchens. Trotz der schlechten Wasserqualität, verursacht durch Probleme mit der Kläranlage, kommen immer noch viele Besucher, um die Grasfelder zu genießen und etwas Sonne zu tanken. Neben einem Spielplatz für Kinder gibt es auch reichlich Freiraum.
+**2) Lerchenauer See :** 
+Auf einem konstanten Weg zur Besserung ist der Lerchenauer See nicht der am meisten verliebte Standort Münchens. Trotz der schlechten Wasserqualität, verursacht durch Probleme mit der Kläranlage, kommen immer noch viele Besucher, um die Grasfelder zu genießen und etwas Sonne zu tanken. Neben einem Spielplatz für Kinder gibt es auch reichlich Freiraum.
 
 ![Lerchenauer See](/assets/img/uploads/lerchenauer_see.jpg)
 
