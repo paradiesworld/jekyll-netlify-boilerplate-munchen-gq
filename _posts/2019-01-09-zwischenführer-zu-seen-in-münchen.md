@@ -10,7 +10,7 @@ categories: Seen in München
 ---
 # Top Fünf Seen rund um München
 
-**1) Feldmochinger See :** Auf einer Fläche von 165,5 Quadratmetern (365 m breit, 860 m lang, max. 8 m tief) ist der Feldmochinger See der größte See innerhalb der Münchner Stadtgrenzen.
+**1) Feldmochinger See :**  Auf einer Fläche von 165,5 Quadratmetern (365 m breit, 860 m lang, max. 8 m tief) ist der Feldmochinger See der größte See innerhalb der Münchner Stadtgrenzen.
 
 ![Feldmochinger See](/assets/img/uploads/feldmochinger-see.png)
 
@@ -25,10 +25,6 @@ categories: Seen in München
 **5) Ammersee :** Ammersee, die Heimat der ältesten Seenland-Segelschule Deutschlands, bietet verschiedene Freizeitaktivitäten wie Schwimmen, Rudern, Segeln und Windsurfen. Die Dampfschiffe bieten den Transport an, der zu mehreren Abfahrten rund um den See führt. 
 
 ![Ammersee](/assets/img/uploads/ammersee-see.jpg)
-
-
-
-
 
 ```
 Inhalt sorce : https://www.muenchen.de/int/en/culture-leisure/sport-fitness/lakes-munich.html
