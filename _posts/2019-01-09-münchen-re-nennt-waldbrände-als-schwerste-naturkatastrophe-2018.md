@@ -2,7 +2,7 @@
 layout: post
 title: München Re nennt Waldbrände als schwerste Naturkatastrophe 2018
 author: john_doe
-date: '2019-01-07 23:01:34'
+date: '2019-01-12 23:01:34'
 intro_paragraph: >-
   Der Rückversicherer Munich Re dokumentiert Naturkatastrophen rund um den
   Globus. 2018 starben dabei weltweit 10.400 Menschen – deutlich weniger als in
