@@ -11,14 +11,6 @@ Hier diskutieren wir alles über Münchens Stadtteile, Umgebung, Kultur, Top-Pal
 
 # Kontaktieren Sie uns für weitere Informationen
 
-<p>Unser anderes Blog-Netzwerk ist : <a href="https://munchen.gq/">München.gq</a>  <a href="https://munchen.cf">München.CF</a>  <a href="https://munchen.ga">München.GA</a>  
-<a href="https://munchen.ml">München.ML</a>   <a href="https://gesundheit.cf">Gesundheit.CF</a>  <a href="https://pflege.gq">Pflege.GQ</a>  
-<a href="https://baumfallung.tk">Baumfallung.TK</a>  <a href="https://baumfallung.ml">Baumfallung.ML</a>  <a href="https://bild.ga">Bild.GA</a>
- </p>
-
-<br>
-Unsere Kunden-Websites :  <a href="https://ihrbaumprofi.de">Ihrbaumprofi</a> | <a href="https://kieferorthopaede-fuenfhoefe.de">Kieferorthopäde München</a> | <a href="https://www.stefanrieth.com">Stefanrieth</a> |
-<a href="https://mittelzumleben.bz/nahrungsergaenzungsmittel/911/cbd-oel-5-vegan-10ml">CBD Öl</a> | <a href="https://delitip.com">Delitip</a>
 
 Für jeden Kontakt                                                                                                      
 
